@@ -17,3 +17,6 @@
 # Evidências Esperadas
 
 ## Definir evidencias que sserão geradas
+
+### Comando: git log --oneline
+>> 9cbc83e (HEAD -> main) Estrutura inicial do projeto
